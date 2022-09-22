@@ -1,3 +1,22 @@
+
+
+### Hi there 👋
+
+My Name is Martin 
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on IoT
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about 
+- 📫 How to reach me:
+- 😄 Pronouns: ...
+- ⚡ Fun fact: 
+  - I made 
+  - I am fan of 
+
+
+
 **DigitalHub**
 digital innovation hub - for education
 
