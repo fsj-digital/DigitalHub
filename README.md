@@ -1,17 +1,15 @@
-# DigitalHub
+**DigitalHub**
 digital innovation hub - for education
 
 
-in a nutshell: a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
+**in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
 ... cf https://www.youtube.com/watch?v=ohOOoGpfYgc
 
 
-Putting Digital Innovation Hubs into Regional Context - A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
-
+**Putting Digital Innovation Hubs into Regional Context - A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg**
 Editors: Gabriel Rissola, Annita Kalpaka 2019
-
-Link; https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf
+**Link**; https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf
 
 This publication is a Technical report by the Joint Research Centre (JRC), the European Commission’s science and knowledge service. It aims to provide evidence-based scientific support to the European policymaking process. The scientific output expressed does not imply a policy position of the European Commission. Neither the European Commission nor any person acting on behalf of the Commission is responsible for the use that might be made of this publication.
 
