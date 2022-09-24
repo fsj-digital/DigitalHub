@@ -15,7 +15,6 @@ My Name is Martin
   - I made 
   - I am fan of 
 
-
 ## 👩🏼‍💻 Engineering Experience
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
