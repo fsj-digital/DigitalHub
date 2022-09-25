@@ -1,11 +1,6 @@
 
 vv
 
-How can I embed a YouTube video on GitHub wiki pages?
-https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
-
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
 
 
 
@@ -23,6 +18,15 @@ My Name is Martin
 - ⚡ Fun fact: 
   - I made 
   - I am fan of 
+
+
+
+How can I embed a YouTube video on GitHub wiki pages?
+https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
+
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=StTqXEQ2l-Y)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
+
 
 ## 👩🏼‍💻 Engineering Experience
 
