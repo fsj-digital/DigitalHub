@@ -1,5 +1,8 @@
 
 
+Markup :  [the real one Named Link](http://www.google.fr/ "Named link title") 
+
+
 Markup :  [the Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 
