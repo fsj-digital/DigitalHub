@@ -1,6 +1,11 @@
 
 
 
+Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+
+
+
+
 [Putting Digital Innovation Hubs into Regional Context - A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
 Editors: Gabriel Rissola, Annita Kalpaka 2019] (https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title") 
 
