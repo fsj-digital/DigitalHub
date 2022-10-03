@@ -1,5 +1,7 @@
 
 
+Markup :  [the Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
+
 
 Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
