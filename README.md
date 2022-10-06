@@ -8,6 +8,7 @@ Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.
 
 
 
+
 Suppose your personal website is hosted in a Github page as follows:
 
 https://username.github.io
@@ -17,7 +18,6 @@ https://username.github.io/folder/document.pdf
 To allow the user to open the pdf in a new window in the browser, you may use the following HTML, where "PDF" points to the link:
 
 <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
-
 
 
 [Putting Digital Innovation Hubs into Regional Context - A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
@@ -113,7 +113,7 @@ digital innovation hub - for education
 Editors: Gabriel Rissola, Annita Kalpaka 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
 
 
-muster: 
+**Muster:** 
 <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf" target="_blank">PDF-Text.</a>
 
 https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf
