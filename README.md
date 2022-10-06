@@ -113,10 +113,14 @@ digital innovation hub - for education
 Editors: Gabriel Rissola, Annita Kalpaka 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
 
 
+
+**Literatur**
+
 **Muster:** 
 <a href="https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf" target="_blank">PDF-Text.</a>
 
 https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf
+
 
 
 
