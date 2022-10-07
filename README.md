@@ -135,23 +135,14 @@ This publication is a Technical report by the Joint Research Centre (JRC), the E
   **Literatur-Quellen:** 
 
 
-[Putting Digital Innovation Hubs into Regional Context A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
-Editors: Gabriel Rissola, Annita Kalpaka 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
+[Putting Digital Innovation Hubs into Regional Context A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
 
 [Business Intelligence & Innovation: A Digital Innovation Hub as Intermediate for Service Interaction and System Innovation for Small and Medium-sized Enterprises](https://hal-emse.ccsd.cnrs.fr/emse-03346103"Named link title")
 
-[Digital Innovation Hubs in Smart Specialisation Strategies Early lessons from European regions Gabriel Rissola, Jens Sörvik 2018 This publication is a Technical report by the Joint Research Centre (JRC), the European Commission’s science and knowledge service. It aims to provide evidence-based scientific support to the European policymaking process. The scientific output expressed does not imply a policy position of the European Commission. Neither the European Commission nor any person acting on behalf of the Commission is responsible for the use that might be made of this publication. Contact information Name: Gabriel Rissola Address: Edificio Expo, c/Inca Garcilaso 3, 41092, Seville, Spain Email: gabriel.rissola@ec.europa.eu; JRC-DIR-B-SECRETARIAT@ec.europa.eu Tel.: +344.954.488.423; +34.954.488.289 EU Science Hub https://ec.europa.eu/jrc JRC113111 EUR 29374 EN
-](https://www.researchgate.net/publication/328530001_Digital_Innovation_Hubs_in_Smart_Specialisation_Strategies "Named link title")
+[Digital Innovation Hubs in Smart Specialisation Strategies Early lessons from European regions Gabriel Rissola, Jens Sörvik 2018](https://www.researchgate.net/publication/328530001_Digital_Innovation_Hubs_in_Smart_Specialisation_Strategies "Named link title")
 
-[A Quality Innovation Strategy for an Inter-regional Digital Innovation Hub Jonas Queiroza , Paulo Leitãoa , Joseane Pontesb , André Chavesa , Javier Parra-Domínguezc and María E. Perez-Ponsc a Research Centre in Digitalization and Intelligent Robotics (CeDRI), Instituto Politécnico de Bragança, 
-](https://www.semanticscholar.org/paper/A-Quality-Innovation-Strategy-for-an-Inter-regional-Queiroz-Leit%C3%A3o/f8035d200033a18d32df4db921fae660bfdc3324"Named link title")
+[A Quality Innovation Strategy for an Inter-regional Digital Innovation Hub Jonas Queiroza , Paulo Leitãoa , Joseane Pontesb , André Chavesa , Javier Parra-Domínguezc and María E.](https://www.semanticscholar.org/paper/A-Quality-Innovation-Strategy-for-an-Inter-regional-Queiroz-Leit%C3%A3o/f8035d200033a18d32df4db921fae660bfdc3324"Named link title")
 
 [Exploring heterogeneous Digital Innovation Hubs in their context - a comparative case study of six (6) DIHs with links to S3, innovation systems and digitalisation on a regional scale](https://www.researchgate.net/publication/336115378_Exploring_heterogeneous_Digital_Innovation_Hubs_in_their_context_-_a_comparative_case_study_of_six_6_DIHs_with_links_to_S3_innovation_systems_and_digitalisation_on_a_regional_scale "Named link title")
 
-
-[Exploring heterogeneous Digital Innovation Hubs in their context - a comparative case study of six (6) DIHs with links to S3, innovation systems and digitalisation on a regional scale](https://www.researchgate.net/publication/336115378_Exploring_heterogeneous_Digital_Innovation_Hubs_in_their_context_-_a_comparative_case_study_of_six_6_DIHs_with_links_to_S3_innovation_systems_and_digitalisation_on_a_regional_scale "Named link title")
-
-...das sind die changes 
-
-
-
+bla bla bla 
