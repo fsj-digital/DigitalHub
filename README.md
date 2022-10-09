@@ -1,4 +1,4 @@
-cccccc
+ccccccAAAAAABBBBBCCCC 
 
 Markup :  [the real one Named Link](http://www.google.fr/ "Named link title") 
 
@@ -117,6 +117,8 @@ Editors: Gabriel Rissola, Annita Kalpaka 2019](https://publications.jrc.ec.europ
 
 
 hier kommt die **Literatur**
+
+[The digital transformation of SMEs – a new knowledge broker called the digital innovation hub](https://www.researchgate.net/publication/342131261_The_digital_transformation_of_SMEs_-a_new_knowledge_broker_called_the_digital_innovation_hub "Named link title")
 
 [Putting Digital Innovation Hubs into Regional Context A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
 
