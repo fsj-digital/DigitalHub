@@ -111,10 +111,6 @@ digital innovation hub - for education
 ... cf https://www.youtube.com/watch?v=ohOOoGpfYgc
 
 
-[Putting Digital Innovation Hubs into Regional Context A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
-Editors: Gabriel Rissola, Annita Kalpaka 2019](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title")
-
-
 
 hier kommt die **Literatur**
 
@@ -126,7 +122,3 @@ hier kommt die **Literatur**
 
 [Exploring heterogeneous Digital Innovation Hubs in their context - a comparative case study of six (6) DIHs with links to S3, innovation systems and digitalisation on a regional scale](https://www.researchgate.net/publication/336115378_Exploring_heterogeneous_Digital_Innovation_Hubs_in_their_context_-_a_comparative_case_study_of_six_6_DIHs_with_links_to_S3_innovation_systems_and_digitalisation_on_a_regional_scale "Named link title")
 
-
-bla bla blub
-blub blub 
-bla bla bla 
