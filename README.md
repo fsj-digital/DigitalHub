@@ -1,4 +1,3 @@
-ccccccAAAAAABBBBBCCCC 
 
 Markup :  [the real one Named Link](http://www.google.fr/ "Named link title") 
 
@@ -7,54 +6,37 @@ Markup :  [the Named Link](http://www.google.fr/ "Named link title") and http://
 Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
 
 
-
-
-
-
 Suppose your personal website is hosted in a Github page as follows:
 
 https://username.github.io
-The repository should be name as username.github.io. If you have a pdf file named document.pdf and you place it in the directory folder then you should be able to open it directly in the browser through the following link:
+The repository should be name as username.github.io. If you have a pdf file named document.pdf and you place it in the directory 
+folder then you should be able to open it directly in the browser through the following link:
 
 https://username.github.io/folder/document.pdf
 To allow the user to open the pdf in a new window in the browser, you may use the following HTML, where "PDF" points to the link:
-
 <a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
 
-
-[Putting Digital Innovation Hubs into Regional Context - A European survey Authors: Johan Miörner, Gabriel Rissola, Jens Sörvik, Joakim  Wernberg
-Editors: Gabriel Rissola, Annita Kalpaka 2019] (https://publications.jrc.ec.europa.eu/repository/bitstream/JRC117910/jrc117910_dihs_survey_jrc_report_pubsy_online.pdf "Named link title") 
-
-
 ---
 title: "Résumé"
 permalink: /resume/
 header:
 ---
+
 [See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v5.pdf)
-  
-nnnnnnnnnnnnnn
-
-
-
+ 
 https://github.com/mmistakes/minimal-mistakes/issues/2361
 
-
 ---
 title: "Résumé"
 permalink: /resume/
 header:
 ---
 [See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v5.pdf)
-Then I get a link that opens to new tab instead of a pdf embedded page. However, I have saved to pdf to image, and was able to display that in the page.
-
-
+Then I get a link that opens to new tab instead of a pdf embedded page. However,
+I have saved to pdf to image, and was able to display that in the page.
 
 Code: https://raw.githubusercontent.com/belovanna/belovanna.github.io/b64e6c285e0e057f9bc9a1723a4eb767446a1947/_pages/curriculum.md
 Effect: https://belovanna.github.io/Curriculum/
-
-
-
 
 
 ### Hi there 👋
@@ -124,3 +106,4 @@ hier kommt die **Literatur**
 
 [weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Named link title")
 
+..
