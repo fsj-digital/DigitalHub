@@ -1,21 +1,3 @@
-
-Markup :  [the real one Named Link](http://www.google.fr/ "Named link title") 
-
-Markup :  [the Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-
-Suppose your personal website is hosted in a Github page as follows:
-
-https://username.github.io
-The repository should be name as username.github.io. If you have a pdf file named document.pdf and you place it in the directory 
-folder then you should be able to open it directly in the browser through the following link:
-
-https://username.github.io/folder/document.pdf
-To allow the user to open the pdf in a new window in the browser, you may use the following HTML, where "PDF" points to the link:
-<a href="username.github.io/folder/document.pdf" target="_blank">PDF.</a>
-
 ---
 title: "Résumé"
 permalink: /resume/
@@ -54,8 +36,6 @@ My Name is Martin
   - I made 
   - I am fan of 
 
-
-
 How can I embed a YouTube video on GitHub wiki pages?
 https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
 
@@ -63,14 +43,34 @@ https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-
 
 
 
-## 👩🏼‍💻 Establishment of Regional Innovation Hubs 
+## 👩🏼‍💻 Establishment of Regional Innovation Hubs:
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+
+ - Establishment of Regional Innovation Hubs as sites for idea exchange and digital development in the field of school
+ - Establishment of co-creation teams and regional  stackeholders networks to enhance the collaboration between universities, schools and public sector
+ - Establishment of Regional Innovation Hub as site for collaboration and mentoring and multiplying school to school mentoring strucures to scale up the digital innovation on local regional level 
+ 
+ - **_Tags Ideas and Thoughts:_** .
 <br><br>
+
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung. 
+
+regionales Netzwerk aus Schulen,
+im Netzwerk bereichernde Erfahrungen teilen, 
+Perspektiven einnehmen und uns gegenseitig fördern, 
+Event- und Austauschplattform für die Tech- und Makerszene der Region, 
+Accelerator-Programm für Innovationen an Schulen
+Accelerator · ‎Events
+Kompetenzstandorten vernetzen gezielt Schulen, Kommunen..
+Ansprechpartner zum Thema Digitalisierung und Innovation 
+begleiten und beraten wir Digitalteams mittelständischer Unternehmen beim Aufbau von digitalem ...
+befassen sich mit den aktuellen wie künftigen Innovationsfeldern 
+Digitale Innovationen - ThinkTank Zukunftstechnologien
+Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft 
+Wir entwickeln disruptive Innovationen.
+Coworking. Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
