@@ -63,7 +63,7 @@ https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-
 
 
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Establishment of Regional Innovation Hubs 
 
 **Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
