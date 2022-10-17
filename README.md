@@ -1,25 +1,3 @@
----
-title: "Résumé"
-permalink: /resume/
-header:
----
-   
-[See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v5.pdf)
- 
-https://github.com/mmistakes/minimal-mistakes/issues/2361
-
----
-title: "Résumé"
-permalink: /resume/
-header:
----
-[See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v5.pdf)
-Then I get a link that opens to new tab instead of a pdf embedded page. However,
-I have saved to pdf to image, and was able to display that in the page.,,,
-
-Code: https://raw.githubusercontent.com/belovanna/belovanna.github.io/b64e6c285e0e057f9bc9a1723a4eb767446a1947/_pages/curriculum.md
-Effect: https://belovanna.github.io/Curriculum/
-
 
 ### Hi there 👋
 
