@@ -5,9 +5,9 @@
 
 ### Hi there 👋
 
-My Name is Martin 
+My Name is Martin - 
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱 I’m currently learning to network and collaborate with various Stakeholder
 - 👯 I’m looking to collaborate on IoT
 - 🤔 I’m looking for help with ...ANT, 
@@ -33,7 +33,6 @@ No-code platform that enables professionals to build interactive applications.
  
  - **_Tags Ideas and Thoughts:_** .
 <br><br>
-
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung. 
 
 regionales Netzwerk aus Schulen,
@@ -41,7 +40,7 @@ im Netzwerk bereichernde Erfahrungen teilen,
 Perspektiven einnehmen und uns gegenseitig fördern, 
 Event- und Austauschplattform für die Tech- und Makerszene der Region, 
 Accelerator-Programm für Innovationen an Schulen
-Accelerator · ‎Events
+Accelerator · Events
 Kompetenzstandorten vernetzen gezielt Schulen, Kommunen..
 Ansprechpartner zum Thema Digitalisierung und Innovation 
 begleiten und beraten wir Digitalteams mittelständischer Unternehmen beim Aufbau von digitalem ...
