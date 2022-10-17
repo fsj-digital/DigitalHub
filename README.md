@@ -3,7 +3,7 @@ title: "Résumé"
 permalink: /resume/
 header:
 ---
-
+   
 [See it here :)](http://ToadHanks.github.io/images/mihir_resume_2019v5.pdf)
  
 https://github.com/mmistakes/minimal-mistakes/issues/2361
