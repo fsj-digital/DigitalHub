@@ -1,18 +1,22 @@
 
+
+[Email](mailto:hello@martin.kaspar@ib.de) / [Website]([https://workwithcarolyn.com](https://ib-freiwilligendienste.de/job/1045/)/) / [LinkedIn](https://www.linkedin.com/) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/) / [DEV](https://dev.to/wpfan2099)
+
+
 ### Hi there 👋
 
 My Name is Martin 
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning to network and collaborate with various Stakeholder
 - 👯 I’m looking to collaborate on IoT
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with ...ANT, 
 - 💬 Ask me about 
 - 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
   - I made 
-  - I am fan of 
+  - I am fan of Bruno Latour 
 
 How can I embed a YouTube video on GitHub wiki pages?
 https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
