@@ -1,4 +1,4 @@
-### Ditital Innovation Hub for the Heidelberg Region 👋
+### Digital Innovation Hub for the Heidelberg Region 👋
 
 
 [Email](mailto:martin.kaspar@ib.de) / [Website](https://ib-freiwilligendienste.de/job/1045/)/) / [LinkedIn](https://www.linkedin.com/) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/) / [DEV](https://dev.to/wpfan2099)
@@ -27,8 +27,8 @@ https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-
 
 ## 👩🏼‍💻 Establishment of Regional Innovation Hubs:
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
+**Approach** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+a platform that enables interaction and collaboration to build a digital hub for innovation.
 
  - Establishment of Regional Innovation Hubs as sites for idea exchange and digital development in the field of school
  - Establishment of co-creation teams and regional  stackeholders networks to enhance the collaboration between universities, schools and public sector
@@ -75,7 +75,7 @@ digital innovation hub - for education
 
 
 
-hier kommt die **Literatur**
+ **Literatur**
 
 [The digital transformation of SMEs – a new knowledge broker called the digital innovation hub](https://www.researchgate.net/publication/342131261_The_digital_transformation_of_SMEs_-a_new_knowledge_broker_called_the_digital_innovation_hub "Named link title")
 
