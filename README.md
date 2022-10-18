@@ -24,7 +24,6 @@ My Name is Martin -
 How can I embed a YouTube video on GitHub wiki pages?
 https://stackoverflow.com/questions/11804820/how-can-i-embed-a-youtube-video-on-github-wiki-pages
 
-
 ## 👩🏼‍💻 Establishment of Regional Innovation Hubs:
 
 **Approach** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
@@ -36,8 +35,7 @@ a platform that enables interaction and collaboration to build a digital hub for
  
  - **_Tags Ideas and Thoughts:_** .
 <br><br>
-Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung. 
-
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung; 
 regionales Netzwerk aus Schulen,
 im Netzwerk bereichernde Erfahrungen teilen, 
 Perspektiven einnehmen und uns gegenseitig fördern, 
@@ -53,17 +51,19 @@ Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Fo
 Wir entwickeln disruptive Innovationen.
 Coworking. Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
+**Examples for best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+[Example 2](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
+  -  [Example 3](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
 
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+  - **_approach and concepts used:_** CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
-  - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
-  - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
+**Digital Hubs - for Education** @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
+Early-stage startup focused on Hubs in the field of schools 
+*Aspects:* 
+
+  - Mentorin-model  [](https://meeshkan.com/) and the initial web app that visualized the test reports
+  - Mentoring strucures  [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
 
 **DigitalHub**
 digital innovation hub - for education
@@ -88,4 +88,4 @@ digital innovation hub - for education
 [weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Named link title")
 
 ..
-dd
+dddd
