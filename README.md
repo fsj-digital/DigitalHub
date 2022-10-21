@@ -1,7 +1,9 @@
 ### Digital Innovation Hub for the Heidelberg Region 👋
 
 
-[Email](mailto:martin.kaspar@ib.de) / [Website](https://ib-freiwilligendienste.de/job/1045/)/) / [LinkedIn](https://www.linkedin.com/) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/digital__hubs) / [DEV](https://dev.to/wpfan2099)
+[Email](mailto:martin.kaspar@ib.de) / [Website](https://ib-freiwilligendienste.de/job/1045/)) / [Foren](https://github.com/fsj-digital/DigitalHub/discussions)) / [Wiki](https://github.com/fsj-digital/DigitalHub/wiki) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/digital__hubs) / [DEV](https://dev.to/wpfan2099)
+
+
 
 [![Watch the video](https://img.youtube.com/vi/watch?v=XdL7hKwE-UM/default.jpg)](https://www.youtube.com/watch?v=XdL7hKwE-UM)
 
@@ -72,7 +74,6 @@ digital innovation hub - for education
 **in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
 ... cf https://www.youtube.com/watch?v=ohOOoGpfYgc
-
 
 
  **Literatur**
