@@ -19,9 +19,9 @@
   - we am fan of Bruno Latour 
 
 
-## 👩🏼‍💻 Der Zugang zum Regional Innovation Hubs:
+## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
-**Approach** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+**Approach und Ansatz** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
  - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
@@ -46,19 +46,18 @@ Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Fo
 Wir entwickeln disruptive Innovationen.
 Coworking. Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 
-**Beispiele für best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Example 2](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  -  [Example 3](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
+einiger **Beispiele für best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+[Beispiel 1](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
+  -  [Beispiel 3](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
 
   - **_Zugang und Konzepte:_** Plattform, Netzwerke, Austauch, Online-Meetings und Offline-Meetings.
 <br><br>
-
 **Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on Hubs in the field of schools 
-*Aspects:* 
+Early-stage startup fokussiert auf Hubs im Feld von Schulen 
+*Aspekte:* 
 
-  - Mentoring-model  [](https://www.ihub4schools.eu) and the initial web app that visualized the test reports
-  - Mentoring strucures  [unmock-js]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), an open-source fuzz testing library
+  - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
+  - Mentoring strucures  [unmock-js]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
 
 **DigitalHub**
 digital innovation hub - for education
