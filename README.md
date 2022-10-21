@@ -33,20 +33,20 @@ Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital In
  - **_Tags, Ideen und Ansätze:_** .
 <br><br>
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung; 
-regionales Netzwerk aus Schulen,
-im Netzwerk bereichernde Erfahrungen teilen, 
-Perspektiven einnehmen und uns gegenseitig fördern, 
-Event- und Austauschplattform für die Tech- und Makerszene der Region, 
-Accelerator-Programm für Innovationen an Schulen
-Accelerator· Events
-Kompetenzstandorten vernetzen gezielt Schulen, Kommunen..
-Ansprechpartner zum Thema Digitalisierung und Innovation 
-begleiten und beraten wir Digitalteams mittelständischer Unternehmen beim Aufbau von digitalem ...
-befassen sich mit den aktuellen wie künftigen Innovationsfeldern 
-Digitale Innovationen - ThinkTank Zukunftstechnologien
-Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft 
-Wir entwickeln disruptive Innovationen.
-Coworking. Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
+regionales Netzwerk aus Schulen;
+im Netzwerk bereichernde Erfahrungen teilen; 
+Perspektiven einnehmen und uns gegenseitig fördern; 
+Event- und Austauschplattform für die Tech- und Makerszene der Region;
+Accelerator-Programm für Innovationen an Schulen;
+Events;
+Kompetenzstandorten vernetzen gezielt Schulen, Kommunen;
+Ansprechpartner zum Thema Digitalisierung und Innovation; 
+begleiten und beraten wir Digitalteams mittelständischer Unternehmen beim Aufbau von digitalem;...
+befassen sich mit den aktuellen wie künftigen Innovationsfeldern;
+Digitale Innovationen - ThinkTank Zukunftstechnologien;
+Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft; 
+Wir entwickeln disruptive Innovationen;
+Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 
 einiger **Beispiele für best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Beispiel 1](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
@@ -59,7 +59,7 @@ Early-stage startup fokussiert auf Hubs im Feld von Schulen
 *Aspekte:* 
 
   - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
-  - Mentoring strucures  [unmock-js]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
+  - Mentoring strucures  [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
 
 **DigitalHub**
 digital innovation hub - for education
