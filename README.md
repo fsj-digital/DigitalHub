@@ -6,7 +6,6 @@
 
 ## Pilotprojekt Digital Innovation Hub in der  Heidelberger Region 👋
 
-
 - 🔭  currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱  currently learning to network and collaborate with various Stakeholder
 - 👯  looking to collaborate on IoT
@@ -15,11 +14,14 @@
 - 📫 How to reach us:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
-  - we made 
-  - we am fan of Bruno Latour 
+  - we made:...
+  - we are fan of Bruno Latour 
 
 
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
+
+Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische oder innovationen. Mit den Digital Innovationen Hubs soll ein Konzept und Verfahren übertagen werden - in den Bereich von Bildung, Schule und weitere soziale Projekte:  Start für Verbesserungen -  individuelle Beratung, Weiterbildung und Digitale Innovationen in der Region Heidelberg.
+
 
 **Approach und Ansatz** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
@@ -65,8 +67,7 @@ digital innovation hub - for education
 
 **in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
-... cf https://www.youtube.com/watch?v=ohOOoGpfYgc
-
+... cf. https://www.youtube.com/watch?v=ohOOoGpfYgc
 
  **Literatur**
 
@@ -80,5 +81,3 @@ digital innovation hub - for education
 
 [weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Named link title")
 
-..
-ddddää
