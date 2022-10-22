@@ -1,6 +1,8 @@
 ### Digital Innovation Hub für die Heidelberger Region 👋
 
 
+Complete list of github markdown emoji markup https://gist.github.com/rxaviers/7360908
+
 trident :trident:	:black_square: :black_square:	:white_square: :white_square:
 white_check_mark :white_check_mark:	black_square_button :black_square_button:	white_square_button :white_square_button:
 black_circle :black_circle:	white_circle :white_circle:	red_circle :red_circle:
