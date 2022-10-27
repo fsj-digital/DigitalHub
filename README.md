@@ -31,7 +31,7 @@ Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital In
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
  - Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern. 
  
- - **_Tags, Ideen und Ansätze:_** .
+ - **_Tags, Ideen und Ansätze: Ideen, die uns anregen...** .
 <br><br>
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und uns gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen, Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: 
 befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft :: Wir entwickeln disruptive Innovationen :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
