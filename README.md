@@ -20,10 +20,7 @@
 
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
-Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische oder innovationen. Mit den Digital Innovationen Hubs soll ein Konzept und Verfahren übertagen werden - in den Bereich von Bildung, Schule und weitere soziale Projekte:  Start für Verbesserungen -  individuelle Beratung, Weiterbildung und Digitale Innovationen in der Region Heidelberg.
-
-
-es reicht nicht - dass die Republik Projekte aufsetzt wie diese: https://digitalhub-kurpfalz.de/unsere-angebote/ die Industrie wird gefördert - die Startups - und die Kommunen.
+Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische oder innovationen. Dabei reicht es unseres Erachtens nicht, dass die Republik Projekte aufsetzt wie diese: https://digitalhub-kurpfalz.de/unsere-angebote/ : die Industrie wird gefördert - die Startups - und die Kommunen.
 Digitalisierung und Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an. 
 
 
@@ -36,21 +33,9 @@ Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital In
  
  - **_Tags, Ideen und Ansätze:_** .
 <br><br>
-Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung; 
-regionales Netzwerk aus Schulen;
-im Netzwerk bereichernde Erfahrungen teilen; 
-Perspektiven einnehmen und uns gegenseitig fördern; 
-Event- und Austauschplattform für die Tech- und Makerszene der Region;
-Accelerator-Programm für Innovationen an Schulen;
-Events;
-Kompetenzstandorten vernetzen gezielt Schulen, Kommunen;
-Ansprechpartner zum Thema Digitalisierung und Innovation; 
-begleiten und beraten wir Digitalteams mittelständischer Unternehmen beim Aufbau von digitalem;...
-befassen sich mit den aktuellen wie künftigen Innovationsfeldern;
-Digitale Innovationen - ThinkTank Zukunftstechnologien;
-Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft; 
-Wir entwickeln disruptive Innovationen;
-Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und uns gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen, Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: 
+befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft :: Wir entwickeln disruptive Innovationen :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
+<br><br><br>
 
 einiger **Beispiele für best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
 [Beispiel 1](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
