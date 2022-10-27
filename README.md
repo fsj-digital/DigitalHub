@@ -23,7 +23,11 @@
 Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische oder innovationen. Mit den Digital Innovationen Hubs soll ein Konzept und Verfahren übertagen werden - in den Bereich von Bildung, Schule und weitere soziale Projekte:  Start für Verbesserungen -  individuelle Beratung, Weiterbildung und Digitale Innovationen in der Region Heidelberg.
 
 
-**Approach und Ansatz** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+es reicht nicht - dass die Republik Projekte aufsetzt wie diese: https://digitalhub-kurpfalz.de/unsere-angebote/ die Industrie wird gefördert - die Startups - und die Kommunen.
+Digitalisierung und Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an. 
+
+
+Unser  **Ansatz:** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
  - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
