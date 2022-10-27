@@ -37,9 +37,9 @@ Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: 
 befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft :: Wir entwickeln disruptive Innovationen :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 <br><br><br>
 
-einiger **Beispiele für best practice | DIHs in Europe** @ [Example 1](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Beispiel 1](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  -  [Beispiel 3](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
+einige **Beispiele für best practice | DIHs in Europe** @ [Example 1](https://https://www.ihub4schools.eu) _(Aug 2020 - Jan 2021)_ <br>
+
+  -  [Beispiel 3](https://www.ihub4schools.eu) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
 
   - **_Zugang und Konzepte:_** Plattform, Netzwerke, Austauch, Online-Meetings und Offline-Meetings.
 <br><br>
