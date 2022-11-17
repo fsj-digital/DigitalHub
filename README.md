@@ -70,16 +70,13 @@ digital innovation hub - for education
 
 [Ecosystem Advantage: How to Successfully Harness the Power of Partners](https://www.researchgate.net/publication/259729356_Ecosystem_Advantage_How_to_Successfully_Harness_the_Power_of_Partners#:~:text=This%20article%20describes%20six%20keys,and%20engineering%20effective%20ways%20to "Ecosystem Advantage: How to Successfully Harness the Power of Partners")
 
+[weitere Literatur](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Digital Hubs")
 
-[weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Digital Hubs")
-
-[ noch mehr Literatur zum Thema  ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/Open-source-research
- "Open Source Forschung  - am MIT ein Auszug ")
+[noch mehr Literatur zum Thema](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/Open-source-research "Open Source Forschung  - am MIT ein Auszug")
 
 
-[Open Source Forschung am MIT: Flosshub.org](flosshub.org/biblio"Open Source Forschung  - Die Open-Source-Forschung am MIT ")
+[Open Source Forschung am MIT: Flosshub.org](flosshub.org/biblio "Open Source Forschung-Die Open-Source-Forschung am MIT")
 
-flosshub.org/biblio
 
 
 https://wiki.open
