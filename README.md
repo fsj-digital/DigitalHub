@@ -68,7 +68,7 @@ digital innovation hub - for education
 
 [Exploring heterogeneous Digital Innovation Hubs in their context - a comparative case study of six (6) DIHs with links to S3, innovation systems and digitalisation on a regional scale](https://www.researchgate.net/publication/336115378_Exploring_heterogeneous_Digital_Innovation_Hubs_in_their_context_-_a_comparative_case_study_of_six_6_DIHs_with_links_to_S3_innovation_systems_and_digitalisation_on_a_regional_scale "Named link title")
 
-[Ecosystem Advantage: How to Successfully Harness the Power of Partners] (https://www.researchgate.net/publication/259729356_Ecosystem_Advantage_How_to_Successfully_Harness_the_Power_of_Partners#:~:text=This%20article%20describes%20six%20keys,and%20engineering%20effective%20ways%20to "Ecosystem Advantage: How to Successfully Harness the Power of Partners")
+[Ecosystem Advantage: How to Successfully Harness the Power of Partners](https://www.researchgate.net/publication/259729356_Ecosystem_Advantage_How_to_Successfully_Harness_the_Power_of_Partners#:~:text=This%20article%20describes%20six%20keys,and%20engineering%20effective%20ways%20to "Ecosystem Advantage: How to Successfully Harness the Power of Partners")
 
 
 [weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Named link title")
