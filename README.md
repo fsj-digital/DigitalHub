@@ -75,7 +75,7 @@ digital innovation hub - for education
 [noch mehr Literatur zum Thema](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/Open-source-research "Open Source Forschung  - am MIT ein Auszug")
 
 
-[Open Source Forschung am MIT: https://Flosshub.org](flosshub.org/biblio "Open Source Forschung-Die Open-Source-Forschung am MIT")
+[Open Source Forschung am MIT: Flosshub.org](https://flosshub.org/biblio "Open Source Forschung-Die Open-Source-Forschung am MIT")
 
 
 https://wiki.open
