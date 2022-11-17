@@ -58,7 +58,7 @@ digital innovation hub - for education
 
 ... cf. https://www.youtube.com/watch?v=ohOOoGpfYgc
 
- **Literatur**
+ **Literatur:**
 
 [The digital transformation of SMEs – a new knowledge broker called the digital innovation hub](https://www.researchgate.net/publication/342131261_The_digital_transformation_of_SMEs_-a_new_knowledge_broker_called_the_digital_innovation_hub "Named link title")
 
@@ -71,5 +71,9 @@ digital innovation hub - for education
 [Ecosystem Advantage: How to Successfully Harness the Power of Partners](https://www.researchgate.net/publication/259729356_Ecosystem_Advantage_How_to_Successfully_Harness_the_Power_of_Partners#:~:text=This%20article%20describes%20six%20keys,and%20engineering%20effective%20ways%20to "Ecosystem Advantage: How to Successfully Harness the Power of Partners")
 
 
-[weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Named link title")
+[weitere Literatur ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/_Digital_Hubs: "Digital Hubs")
 
+[ noch mehr Literatur zum Thema  ....](https://wiki.openstreetmap.org/wiki/User:Tagtheworld/Open-source-research
+ "Open Source Forschung  - am MIT ein Auszug ")
+
+https://wiki.openstreetmap.org/wiki/User:Tagtheworld/Open-source-research
