@@ -34,7 +34,7 @@ Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie d
 
 ![de:hub.de-Projekt](de_hub.jpg)
 
-...*zu kurz gesprungen**: wir wollen mehr! 
+vgl. de-hub.de *zu kurz gesprungen*: mehr scheint möglich! 
 
 zu kurz gesprungen: wir wollen mehr!  das Hub-Prinzip sollte fpr die Schule genutzt werden:  eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene. 
 
