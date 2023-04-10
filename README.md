@@ -26,7 +26,7 @@ Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisier
 
 **Leuchttürme** sind das EDIH-Projekt: https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool,
 
-![EDIHs-Projekt](s3platform_ec.europa.eu.jpg) - 720 Hubs in Europa...
+![EDIHsProjekt](s3platform_ec.europa.eu.jpg) - 720 Hubs in Europa...
 
 
 ...sowohl das Projekt  de:Hub: https://www.de-hub.de : Von diesen Projekten kann die Republik lernen,  das Modell der Hubs kann übertragen werden: Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt, wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an.
