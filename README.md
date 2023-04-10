@@ -57,20 +57,14 @@ einige **Beispiele für best practice**
 
   -  [Beispiel 2]([https://www.de-hub.de](https://www.de-hub.de)) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
 
-  -  [Beispiel 3](https://www.ihub4schools.eu) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
-
-  - **_Zugang und Konzepte:_** Plattform, Netzwerke, Austauch, Online-Meetings und Offline-Meetings.
-<br><br>
-**Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
+-  **Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup fokussiert auf Hubs im Feld von Schulen 
 *Aspekte:* 
-
   - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
   - Mentoring strucures  [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
 
 **DigitalHub**
 digital innovation hub - for education
-
 
 **in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
