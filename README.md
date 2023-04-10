@@ -8,34 +8,38 @@
 
 - 🔭  currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱  currently learning to network and collaborate with various Stakeholder
-- 👯  looking to collaborate on IoT
-- 🤔  looking for help with ...ANT, 
-- 💬 Ask us about 
-- 📫 How to reach us:
-- 😄 Pronouns: ...
+- 👯  looking to collaborate on IoT in regions
+- 🤔  looking for help with  porting over concepts of ANT in fields of Digital innovation Hubs 
+- 💬 Ask us about: Models of interaction in Flosshub ( https://flosshub.org/biblio )
+- 📫 How to reach us:  [Twitter](https://twitter.com/digital__hubs)
+- 😄 : ...
 - ⚡ Fun fact: 
   - we made:...
   - we are fan of Bruno Latour 
 
 
 
-
-
-| ------------ | ------------ | ------------ |
-|   1|2   |3   |
-|   4|5   |6   |
-|   |   |   |
-
-
-
-
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
-Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische oder innovationen. Dabei reicht es unseres Erachtens nicht, dass die Republik Projekte aufsetzt wie diese: https://digitalhub-kurpfalz.de/unsere-angebote/ : die Industrie wird gefördert - die Startups - und die Kommunen.
-Digitalisierung und Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an. 
+Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
+
+**Leuchttürme** sind das EDIH-Projekt: https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool, sowohl das Projekt  de:Hub: https://www.de-hub.de: Von diesen Projekten kann die Republik lernen,  das Modell der Hubs kann übertragen werden:
+Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt, wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an.
+
+**Ansatz**:  das de:Hub-Projekt greift zu kurz - lässt Chancen aus: 
+
+**Zwölf Hubs, ein digitales Ökosystem:** Wir sind die Digital Hub Initiative. Wir vernetzen Mittelstand und Corporates mit neuen Innovationspartnern aus Wissenschaft und Gründerszene. Das ist Digitalisierung, made in Germany. ( https://www.de-hub.de ) 
+
+...*zu kurz gesprungen**: wir wollen mehr! 
+
+zu kurz gesprungen: wir wollen mehr!  das Hub-Prinzip sollte fpr die Schule genutzt werden:  eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene. 
+
+— Einrichtung eines "Regional Innovation Hubs" als Seite für den Idenaustauch und die digitale Entwicklung;
+- Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
+Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
 
 
-Unser  **Ansatz:** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+Unser **Ansatz:** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
  - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
