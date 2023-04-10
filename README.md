@@ -33,8 +33,6 @@ Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie d
 
 ![de:hub.de-Projekt](de_hub.jpg)
 
-![de:hub.de-Projekt](https://github.com/fsj-digital/DigitalHub/blob/main/de_hub.jpg)
-
 ...*zu kurz gesprungen**: wir wollen mehr! 
 
 zu kurz gesprungen: wir wollen mehr!  das Hub-Prinzip sollte fpr die Schule genutzt werden:  eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene. 
@@ -53,8 +51,7 @@ Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital In
  
  - **_Tags, Ideen und Ansätze: Ideen, die uns anregen...** .
 <br><br>
-Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und uns gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen, Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: 
-befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft :: Wir entwickeln disruptive Innovationen :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und uns gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen, Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft :: Wir entwickeln disruptive Innovationen :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs.
 <br><br><br>
 
 einige **Beispiele für best practice**
