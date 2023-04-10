@@ -23,7 +23,7 @@
 
 Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
 
-**Leuchttürme** sind das EDIH-Projekt: https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool, sowohl das Projekt  de:Hub: https://www.de-hub.de: Von diesen Projekten kann die Republik lernen,  das Modell der Hubs kann übertragen werden:
+**Leuchttürme** sind das EDIH-Projekt: https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool, sowohl das Projekt  de:Hub: https://www.de-hub.de : Von diesen Projekten kann die Republik lernen,  das Modell der Hubs kann übertragen werden:
 Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt, wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an.
 
 **Ansatz**:  das de:Hub-Projekt greift zu kurz - lässt Chancen aus: 
@@ -53,7 +53,9 @@ befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovat
 <br><br><br>
 
 einige **Beispiele für best practice**
-  -  **DIHs in Europe** @ [Example 1](https://https://www.ihub4schools.eu) _(Aug 2020 - Jan 2021)_ <br>
+  -  **DIHs in Europe** @ [Beispiel 1](https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool) _(Aug 2020 - Jan 2021)_ <br>
+
+  -  [Beispiel 2]([https://www.de-hub.de](https://www.de-hub.de)) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
 
   -  [Beispiel 3](https://www.ihub4schools.eu) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
 
