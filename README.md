@@ -55,7 +55,7 @@ befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovat
 einige **Beispiele für best practice**
   -  **EDIHs in Europe** @ [Beispiel 1](https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool) 700 Hubs in Europa; <br>
 
-  -  **de:hub** [Beispiel 2]([https://www.de-hub.de](https://www.de-hub.de)) Gesamprojekt de-hub.de: ein deutsches Projekt, 12 Hubs in D.<br>
+  -  **de:hub** [Beispiel 2](https://www.de-hub.de) Gesamprojekt de-hub.de: ein deutsches Projekt, 12 Hubs in D.<br>
 
 -  **Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup fokussiert auf Hubs im Feld von Schulen 
