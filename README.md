@@ -30,6 +30,9 @@ Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie d
 
 **Zwölf Hubs, ein digitales Ökosystem:** Wir sind die Digital Hub Initiative. Wir vernetzen Mittelstand und Corporates mit neuen Innovationspartnern aus Wissenschaft und Gründerszene. Das ist Digitalisierung, made in Germany. ( https://www.de-hub.de ) 
 
+
+![de:hub.de-Projekt](de_hub.jpg)
+
 ![de:hub.de-Projekt](https://github.com/fsj-digital/DigitalHub/blob/main/de_hub.jpg)
 
 ...*zu kurz gesprungen**: wir wollen mehr! 
