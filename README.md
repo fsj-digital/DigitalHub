@@ -53,18 +53,15 @@ befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovat
 <br><br><br>
 
 einige **Beispiele für best practice**
-  -  **DIHs in Europe** @ [Beispiel 1](https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool) _(Aug 2020 - Jan 2021)_ <br>
+  -  **EDIHs in Europe** @ [Beispiel 1](https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool) 700 Hubs in Europa; <br>
 
-  -  [Beispiel 2]([https://www.de-hub.de](https://www.de-hub.de)) Gesamprojekt Ihub4School: ein europäisches Gemeinschaftsprojekt, X Schulen in 7 Ländern.
+  -  **de:hub** [Beispiel 2]([https://www.de-hub.de](https://www.de-hub.de)) Gesamprojekt de-hub.de: ein deutsches Projekt, 12 Hubs in D.<br>
 
 -  **Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup fokussiert auf Hubs im Feld von Schulen 
 *Aspekte:* 
   - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
   - Mentoring strucures  [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
-
-**DigitalHub**
-digital innovation hub - for education
 
 **in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
