@@ -15,7 +15,8 @@
 - 😄 : ...
 - ⚡ Fun fact: 
   - we made:...
-  - we are fan of Bruno Latour 
+  - we are fan of Bruno Latour ⚒ 🧑‍💻 ✍️📚🎾🧠 
+
 
 
 
