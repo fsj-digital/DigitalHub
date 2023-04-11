@@ -33,7 +33,7 @@ Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisier
 
 **Ansatz**:  das de:Hub-Projekt greift zu kurz - lässt Chancen aus: 
 
-**Zwölf Hubs, ein digitales Ökosystem:** Wir sind die Digital Hub Initiative. Wir vernetzen Mittelstand und Corporates mit neuen Innovationspartnern aus Wissenschaft und Gründerszene. Das ist Digitalisierung, made in Germany. ( https://www.de-hub.de ) 
+**Zwölf Hubs, ein digitales Ökosystem:** die Digital Hub Initiative für den Mittelstand. ( https://www.de-hub.de ) 
 
 
 ![de:hub.de-Projekt](de_hub.jpg)
