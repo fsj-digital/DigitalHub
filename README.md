@@ -20,6 +20,8 @@
 
 
 
+
+
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
 Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
