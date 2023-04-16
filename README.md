@@ -43,14 +43,18 @@ vgl. de-hub.de *zu kurz gesprungen*: mehr scheint möglich!
 
 das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene: Ein erstes Beispiel - der regionale Hub ist der nächste Schritt. 
 
-— Einrichtung eines "Regional Innovation Hubs" als Seite für den Idenaustauch und die digitale Entwicklung;
+— Einrichtung eines "Regional Innovation Hubs" als Seite für den Ideenaustauch und die digitale Entwicklung;
 - Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen; Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
 
 
 Unser **Ansatz:** @ ![Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
-Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: ![Schulmaps auf https://www.de-hub.de](schulmaps_region_mit_namen.png)
+Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: 
+
+![Schulmaps](schulmaps_region_mit_namen.png)
+
+![Schulmaps](schulmaps_region_mit_namen.jpg)
 
 Die Schulen - sie sind unverbunden. 
 
