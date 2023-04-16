@@ -50,8 +50,7 @@ das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die 
 Unser **Ansatz:** @ ![Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
-Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: 
-![Schulmaps auf https://www.de-hub.de](schulmaps_region_mit_namen.png)
+Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: ![Schulmaps auf https://www.de-hub.de](schulmaps_region_mit_namen.png)
 
 Die Schulen - sie sind unverbunden. 
 
