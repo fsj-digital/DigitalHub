@@ -4,11 +4,11 @@
 [Email](mailto:martin.kaspar@ib.de) / [Website](https://fsj-digital.github.io/DigitalHub/) / [Foren](https://github.com/fsj-digital/DigitalHub/discussions) / [Wiki](https://github.com/fsj-digital/DigitalHub/wiki) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/digital__hubs) / [DEV](https://dev.to/digital_hub)
 
 
-## Pilotprojekt Digital Innovation Hub in der  Heidelberger Region 👋
+## Pilotprojekt Digital Innovation Hub in der Heidelberger Region 👋
 
 - 🔭  currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱  currently learning to network and collaborate with various Stakeholder
-- 👯  looking to collaborate on IoT in regions
+- 👯  finding partners for idea-exchange and collaboration in the area of education 
 - 🤔  looking for help with  porting over concepts of ANT in fields of Digital innovation Hubs 
 - 💬 Ask us about: Models of interaction in Flosshub ( https://flosshub.org/biblio )
 - 📫 How to reach us:  [Twitter](https://twitter.com/digital__hubs)
@@ -42,9 +42,9 @@ Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, Innovatio
 
 ![de:hub.de-Projekt](de_hub.jpg)
 
-vgl. de-hub.de *zu kurz gesprungen*: mehr scheint möglich! 
+vgl. de-hub.de *ein sehr interessanter Ansatz*: und Orientierungspunkt für unser Projekt 
 
-das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene: Ein erstes Beispiel - der regionale Hub ist der nächste Schritt. 
+Das Desiderat: Das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene: Ein erstes Beispiel - der regionale Hub ist der nächste Schritt. 
 
 — Einrichtung eines "Regional Innovation Hubs" als Seite für den Ideenaustauch und die digitale Entwicklung;
 - Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen; Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
@@ -65,7 +65,7 @@ Die Schulen - sie sind unverbunden.
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
  - Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern. 
  
- - **Tags, Ideen und Ansätze: Ideen, die uns anregen...** .
+ - **Tags, Ideen und Ansätze: Ideen, die uns anregen...hier einige Stichworte** .
 <br><br>
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub als emergentes System :: 
 <br><br><br>
