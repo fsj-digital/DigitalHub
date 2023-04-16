@@ -47,7 +47,7 @@ das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die 
 - Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen; Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
 
 
-Unser **Ansatz:** @ ![Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+Unser **Ansatz:** <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
 Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: ... hier aufgezeigt an einer Region - im Raum Heidelbergs -  ( vgl. die Maps: schulfinder.kultus-bw.de )
