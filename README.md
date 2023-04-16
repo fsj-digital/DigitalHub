@@ -14,7 +14,7 @@
 - 📫 How to reach us: [Email](mailto:martin.kaspar@ib.de): [Twitter](https://twitter.com/digital__hubs)
 - 😄 : ...
 - ⚡ Fun fact: 
-  - FSJ volunteer in the field of eductaion has created great interest. 
+  - FSJ volunteer in the field of eductaion have created great interest. 
   - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻 ✍️📚🎾🧠 
 
 
