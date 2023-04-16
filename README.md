@@ -23,6 +23,10 @@
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
 Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
+Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, Innovation aller Beteiligten; Hier treffen  unterschiedlichste Kompetenzen, Disziplinen, Ideen aufeinander; Acceleratoren für Entwicklungen u. Innovationen. diese Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte. Digitale Hubs - und stellen Knowledge Broker  dar Agenturen des Wissens. 
+
+
+
 
 **Leuchttürme** sind das EDIH-Projekt: https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool,
 
