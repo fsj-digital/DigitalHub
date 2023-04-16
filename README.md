@@ -9,7 +9,7 @@
 - 🔭  currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱  currently learning to network and collaborate with various Stakeholder
 - 👯  finding partners for idea-exchange and collaboration in the area of education 
-- 😏  looking for help with  porting over concepts of ANT in fields of Digital innovation Hubs 
+- 😏  looking for help with porting over concepts of ANT in fields of Digital innovation Hubs 
 - 💬 Ask us about: Models of interaction in the field of Open-Source ( https://flosshub.org/biblio )
 - 📫 How to reach us: [Email](mailto:martin.kaspar@ib.de): [Twitter](https://twitter.com/digital__hubs)
 - 😄 : ...
@@ -18,10 +18,9 @@
   - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻📚🎾🧠 
 
 
-
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
-Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung - auch im Feld der Vernetzung von Gruppen. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, Innovation aller Beteiligten; Hier treffen  unterschiedlichste Kompetenzen, Disziplinen, Ideen aufeinander und stellen so Akzeleratoren für Entwicklungen u. Innovationen dar. Diese Hubs - verstanden als Digitales Ökosystem vereinen Prinzipien die ganz wesentlich den Erfolg sichern; sehr prominente Beispiele solcher Hubs stellen das EDIH- und das de:hub-Projekt dar. In wissensökologischer Sicht stellen die Digitalen Hubs  "Knowledge Broker" dar, Agenturen des Wissens und Schrittmacher von Wissenstransfer, Erneuerung und Innovation. Dieser Ansatz ist grundlegend für das hier - in groben Zügen vorgestellte - Modellprojekt Digital Innovation Hub für die Heidelberger Region. Hier soll von den besteheneden Leuchtturm-Projekten gelernt werden.
+Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung - auch im Feld der Vernetzung von Gruppen. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Austausch und Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, und Innovation aller Beteiligten; Hier treffen  unterschiedlichste Kompetenzen, Disziplinen, Ideen aufeinander und stellen so Akzeleratoren für Entwicklungen u. Innovationen dar. Diese Hubs, verstanden als digitales Ökosystem vereinen Prinzipien, die ganz wesentlich den Erfolg sichern; sehr prominente Beispiele solcher Hubs stellen das EDIH- und das de:hub-Projekt dar. In wissensökologischer Sicht stellen die Digitalen Hubs  "Knowledge Broker" dar, Agenturen des Wissens und Schrittmacher von Wissenstransfer, Erneuerung und Innovation. Dieser Ansatz ist grundlegend für das hier - skizzenhaft vorgestellte - Modellprojekt eines Digital Innovation Hub für die Heidelberger Region. Hier soll im Wesentlichen von den besteheneden Leuchtturm-Projekten gelernt werden.
 
 
 
