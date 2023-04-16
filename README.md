@@ -15,7 +15,7 @@
 - 😄 : ...
 - ⚡ Fun fact: 
   - we made:...
-  - we are fan of Bruno Latour ⚒ 🧑‍💻 ✍️📚🎾🧠 
+  - we are fan of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) ⚒ 🧑‍💻 ✍️📚🎾🧠 
 
 
 
