@@ -53,7 +53,6 @@ Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und k
 
 
 ![Schulmaps](schulmaps_region_mit_namen.jpg)
-
 Die Schulen - sie sind unverbunden. 
 
 *unser Plan:* 
