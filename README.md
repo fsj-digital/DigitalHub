@@ -15,14 +15,13 @@
 - 😄 : ...
 - ⚡ Fun fact: 
   - FSJ volunteer in the field of eductaion have created great interest. 
-  - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻 ✍️📚🎾🧠 
+  - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻📚🎾🧠 
 
 
 
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
-Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
-Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, Innovation aller Beteiligten; Hier treffen  unterschiedlichste Kompetenzen, Disziplinen, Ideen aufeinander und stellen so Akeleratoren für Entwicklungen u. Innovationen dar. Diese hiermit verbundenen Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte. Digitale Hubs, sie stellen "Knowledge Broker" dar Agenturen des Wissens und Schrittmacher von Wissenstransfer, Erneuerung und Innovation. Dieser Ansatz ist grundlegend für das Modellprojekt Digital Innovation Hub für die Heidelberger Region. Hier soll von den besteheneden Leuchtturm-Projekten gelernt werden.
+Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung - auch im Feld der Vernetzung von Gruppen. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. Die Digital Hubs - sie sind wie Kristallisationspunkte für Austausch, Innovation aller Beteiligten; Hier treffen  unterschiedlichste Kompetenzen, Disziplinen, Ideen aufeinander und stellen so Akzeleratoren für Entwicklungen u. Innovationen dar. Diese Hubs - verstanden als Digitales Ökosystem vereinen Prinzipien die ganz wesentlich den Erfolg sichern; sehr prominente Beispiele solcher Hubs stellen das EDIH- und das de:hub-Projekt dar. In wissensökologischer Sicht stellen die Digitalen Hubs  "Knowledge Broker" dar, Agenturen des Wissens und Schrittmacher von Wissenstransfer, Erneuerung und Innovation. Dieser Ansatz ist grundlegend für das hier - in groben Zügen vorgestellte - Modellprojekt Digital Innovation Hub für die Heidelberger Region. Hier soll von den besteheneden Leuchtturm-Projekten gelernt werden.
 
 
 
