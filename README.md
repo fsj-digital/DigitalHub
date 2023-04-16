@@ -69,7 +69,9 @@ Die Schulen - sie sind unverbunden.
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub als emergentes System :: 
 <br><br><br>
 
-einige **Beispiele für best practice**
+
+
+Zusammenfassend die Schau auf einige **Beispiele für best practice in Hubs als Ökozentren der Innovation**
   -  **EDIHs in Europe** @ [Beispiel 1](https://s3platform.jrc.ec.europa.eu/digital-innovation-hubs-tool) 700 Hubs in Europa; <br>
 
   -  **de:hub** [Beispiel 2](https://www.de-hub.de) Gesamprojekt de-hub.de: ein deutsches Projekt, 12 Hubs in D.<br>
@@ -80,7 +82,11 @@ Early-stage startup fokussiert auf Hubs im Feld von Schulen
   - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
   - Mentoring strucures  [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
 
-**in a nutshell:** a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
+
+**Hubs; das Gewinnerprinzip der Vernetzung:** Die Digital Hubs - sie sind Kristallisationspunkte für Austausch, Innovation in den Regionen. Es treffen sich unterschiedlichste Kompetenzen, Disziplinen, Ideen, Technologien und Kreativität aufeinander - diese Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte.
+Durch Kooperation, Vernetzung und Austausch werden mit den Hubs digitale Innovationen in der gesamten Fläche vorangebracht.
+
+Hugs **in a nutshell:** ....a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
 ... cf. https://www.youtube.com/watch?v=ohOOoGpfYgc
 
