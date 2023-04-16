@@ -9,7 +9,7 @@
 - 🔭  currently working on the Digital Hub Project in the Heidelberg Region ...  
 - 🌱  currently learning to network and collaborate with various Stakeholder
 - 👯  finding partners for idea-exchange and collaboration in the area of education 
-- 🤔  looking for help with  porting over concepts of ANT in fields of Digital innovation Hubs 
+- 😏  looking for help with  porting over concepts of ANT in fields of Digital innovation Hubs 
 - 💬 Ask us about: Models of interaction in the field of Open-Source ( https://flosshub.org/biblio )
 - 📫 How to reach us: [Email](mailto:martin.kaspar@ib.de): [Twitter](https://twitter.com/digital__hubs)
 - 😄 : ...
