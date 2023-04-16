@@ -84,7 +84,7 @@ Early-stage startup fokussiert auf Hubs im Feld von Schulen
 **Hubs; das Gewinnerprinzip der Vernetzung:** Die Digital Hubs - sie sind Kristallisationspunkte für Austausch, Innovation in den Regionen. Es treffen sich unterschiedlichste Kompetenzen, Disziplinen, Ideen, Technologien und Kreativität aufeinander - diese Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte.
 Durch Kooperation, Vernetzung und Austausch werden mit den Hubs digitale Innovationen in der gesamten Fläche vorangebracht.
 
-Hugs **in a nutshell:** ....a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
+Hubs **in a nutshell:** ....a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
 
 ... cf. https://www.youtube.com/watch?v=ohOOoGpfYgc
 
