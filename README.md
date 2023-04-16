@@ -20,8 +20,6 @@
 
 
 
-
-
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
 
 Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisierung. Sie bietet eine Vielzahl von Möglichkeiten für alle Arten von Innovationen, seien es Produkt-, Prozess-, organisatorische Innovationen. 
@@ -61,7 +59,7 @@ Die Schulen - sie sind unverbunden.
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
  - Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern. 
  
- - **_Tags, Ideen und Ansätze: Ideen, die uns anregen...** .
+ - **Tags, Ideen und Ansätze: Ideen, die uns anregen...** .
 <br><br>
 Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub als emergentes System :: 
 <br><br><br>
