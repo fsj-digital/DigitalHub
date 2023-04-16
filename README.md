@@ -30,6 +30,7 @@ Ein wesentlicher Ansatzpunkt für Innovationen ist gegenwärtig die Digitalisier
 
 ![EDIHsProjekt](s3platform_ec.europa.eu.jpg) - 720 Hubs in Europa...
 
+![Schumaps - ein ](schulmaps_region_mit_namen.png)
 
 ...sowohl das Projekt  de:Hub: https://www.de-hub.de : Von diesen Projekten kann die Republik lernen,  das Modell der Hubs kann übertragen werden: Transformation der Gesellschaft kann mehr & soll mehr und vor allem sollte sie die Schulen erreichen: ein interessantes Projekt, wie z.B. https://www.ihub4schools.eu/ setzt hier vielversprechend an.
 
@@ -45,12 +46,17 @@ vgl. de-hub.de *zu kurz gesprungen*: mehr scheint möglich!
 das Hub-Prinzip sollte auch für die Schule genutzt werden: eine Plattform, die Interaktion und Zusammemarbeit ermöglicht - einen “Digital Innovation Hub für - für Schulen auf regionaler Ebene: Ein erstes Beispiel - der regionale Hub ist der nächste Schritt. 
 
 — Einrichtung eines "Regional Innovation Hubs" als Seite für den Idenaustauch und die digitale Entwicklung;
-- Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
-Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
+- Unterstützung von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen; Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern.
 
 
-Unser **Ansatz:** @ [Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
+Unser **Ansatz:** @ ![Digital Hub Initiative](https://www.youtube.com/watch?v=XdL7hKwE-UM&t=15s) _(Dec 2020 - Present)_ <br>
 Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
+
+Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: 
+![Schulmaps auf https://www.de-hub.de ](schulmaps_region_mit_namen.png)
+Die Schulen - sie sind unverbunden. 
+
+*unser Plan:* 
 
  - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
