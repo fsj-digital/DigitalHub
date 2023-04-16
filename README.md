@@ -57,9 +57,9 @@ Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und k
 
 ![Schulmaps](schulmaps_region_mit_namen.jpg)
 
-Die Schulen - sie sind unverbunden. 
+Die Schulen - sie sind tendenziell eher "unverbunden" - und genau hier setzt unser Projekt an.  
 
-*unser Plan:* 
+*unser Plan:* in einer grundlegenden Skizze: 
 
  - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
@@ -67,8 +67,7 @@ Die Schulen - sie sind unverbunden.
  
  - **Tags, Ideen und Ansätze: Ideen, die uns anregen...hier einige Stichworte** .
 <br><br>
-Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub als emergentes System :: 
-<br><br><br>
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub, verstanden als "emergentes System", bei dem die Resultate nicht schon am Beginn festgelegt oder klar konzipiert werden. <br><br><br>
 
 
 
