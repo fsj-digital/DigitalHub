@@ -51,7 +51,7 @@ Das Desiderat: Das Hub-Prinzip sollte auch für die Schule genutzt werden: eine 
 
 Unser **Ansatz:** Eine Platform die Interaktion und Zusammemarbeit ermöglicht - einen "Digital Innovation Hub für - für Schulen u.s.w. 
 
-Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe: ... hier aufgezeigt an einer Region - im Raum Heidelbergs -  ( vgl. die Maps: schulfinder.kultus-bw.de )
+Das Problem - die Schulen sind unverbunden - haben i.d.R. keinen Austausch und kaum ein Wissen über Kompeztenzen, Stärken u. gemeinsam geteilte Bedarfe anderer Akteure: ... hier aufgezeigt an einer Region - im Raum Heidelbergs -  ( vgl. die Map aus: schulfinder.kultus-bw.de )
 
 
 ![Schulmaps](schulmaps_region_mit_namen.jpg)
@@ -63,7 +63,7 @@ Die Schulen - sie sind tendenziell eher "unverbunden" - und genau hier setzt uns
  - Einrichtung eines Regional Innovation Hubs als Anlaufpunkt für den Idenaustauch, Wissenstransfer und die (digitale) Entwicklung 
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
  - Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern. 
- - Entwicklung eines Diskursraums in einer Region: "Vernetzung des Unvernetzten"; Einsatz von Tools, die Schulen helfen, deren Projekte, Idden und Ansäze auch anderen bekannt zu machen. Aufbau eines regionalen Netzwerkes und Unterstüzung von Vernetzung. 
+ - Entwicklung eines Diskursraums in einer Region: "Vernetzung des Unvernetzten"; Einsatz von Tools, die Schulen helfen, deren Projekte, Ideen und Ansäze auch anderen bekannt zu machen. Aufbau eines regionalen Netzwerkes und Unterstüzung von Vernetzung. 
  
  
  - **Tags, Ideen und Ansätze: Ideen, die uns anregen...hier einige Stichworte** .
