@@ -60,9 +60,11 @@ Die Schulen - sie sind tendenziell eher "unverbunden" - und genau hier setzt uns
 
 *unser Plan:* in einer grundlegenden Skizze: 
 
- - Einrichtung eines Regional Innovation Hubs als Seite für den Idenaustauch und die digitale Entwicklung 
+ - Einrichtung eines Regional Innovation Hubs als Anlaufpunkt für den Idenaustauch, Wissenstransfer und die (digitale) Entwicklung 
  - Unterstützuing von Austauschprozessen in Teams und unterschiedlichen Akteursnetzwerken, die die Zusammenarbeit unterstützen;
  - Einrichtung eines Regional Innovation Hubs - als Basis und Schrittmacher die digitale Transformation in der Region zu fördern. 
+ - Entwicklung eines Diskursraums in einer Region: "Vernetzung des Unvernetzten"; Einsatz von Tools, die Schulen helfen, deren Projekte, Idden und Ansäze auch anderen bekannt zu machen. Aufbau eines regionalen Netzwerkes und Unterstüzung von Vernetzung. 
+ 
  
  - **Tags, Ideen und Ansätze: Ideen, die uns anregen...hier einige Stichworte** .
 <br><br>
