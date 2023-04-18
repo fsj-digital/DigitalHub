@@ -68,7 +68,7 @@ Die Schulen - sie sind tendenziell eher "unverbunden" - und genau hier setzt uns
  
  - **Tags, Ideen und Ansätze: Ideen, die uns anregen...hier einige Stichworte** .
 <br><br>
-Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorten vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub, verstanden als "emergentes System", bei dem die Resultate nicht schon am Beginn festgelegt oder klar konzipiert werden. <br><br><br>
+Neue Konzepte und temporäre Projekte brauchen kreativen Raum zur Entfaltung :: regionales Netzwerk aus Schulen :: im Netzwerk bereichernde Erfahrungen teilen :: neue Perspektiven einnehmen und gegenseitig fördern :: Event- und Austauschplattform für die Tech- und Makerszene der Region :: Accelerator-Programm für Innovationen an Schulen :: Events :: Kompetenzstandorte vernetzen und gezielt Schulen und Kommunen fördern :: Ansprechpartner zum Thema Digitalisierung und Innovation identifizieren :: befassen mit den aktuellen wie künftigen Innovationsfeldern :: Digitale Innovationen - ThinkTank Zukunftstechnologien entwickeln :: Entwicklung von innovativen Ideen, digitalen Geschäftsmodellen & Prototypen. Forschung & Entwicklung für die digitale Zukunft ::  disruptive Innovationen entwickeln :: Coworking: Eine Community aus Gründern, Schülern, Investoren, Entwicklern und Talenten. Das Netzwerk von zwölf Digital Hubs. :: ein Hub entwickeln, verstanden als "emergentes System", bei dem die Resultate nicht schon am Beginn festgelegt oder klar konzipiert werden. <br><br><br>
 
 
 
@@ -78,16 +78,14 @@ Zusammenfassend die Schau auf einige **Beispiele für best practice in Hubs als 
   -  **de:hub** [Beispiel 2](https://www.de-hub.de) Gesamprojekt de-hub.de: ein deutsches Projekt, 12 Hubs in D.<br>
 
 -  **Digital Hubs - for Education** Beispiele und Projekte  @ [ihub4schools.eu](https://www.ihub4schools.eu) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup fokussiert auf Hubs im Feld von Schulen 
-*Aspekte:* 
+Early-stage startup fokussiert auf Hubs im Feld von Schulen - hier einzelne *Aspekte:* 
   - Mentoring-model  [](https://www.ihub4schools.eu) Analyse des Netzwerks heterogener Akteure 
-  - Mentoring strucures  [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
+  - Mentoring structures [ihub4schools]([https://github.com/meeshkan/unmock-js](https://www.ihub4schools.eu)), 
 
 
-**Hubs; das Gewinnerprinzip der Vernetzung:** Die Digital Hubs - sie sind Kristallisationspunkte für Austausch, Innovation in den Regionen. Es treffen sich unterschiedlichste Kompetenzen, Disziplinen, Ideen, Technologien und Kreativität aufeinander - diese Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte.
-Durch Kooperation, Vernetzung und Austausch werden mit den Hubs digitale Innovationen in der gesamten Fläche vorangebracht.
+**Hubs; das Gewinnerprinzip der Vernetzung:** Die Digital Hubs - sie sind Kristallisationspunkte für Austausch, Innovation in den Regionen. Es treffen sich unterschiedlichste Kompetenzen, Disziplinen, Ideen, Technologien und Kreativität aufeinander - diese Prinzipien - sie verbinden die EDIHs u. de:Hub-Projekte. Durch Kooperation, Vernetzung und Austausch werden mit den Hubs digitale Innovationen in der gesamten Fläche vorangebracht. Hier setzt unser Projekt an - und versucht, Ansätze, Ideen, und verschiedene Aspekte für das angestrebte regionale Netzwerkprojekt fruchtbar zu machen.  
 
-Hubs **in a nutshell:** ....a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies to support their digital transformation and innovation through a one stop shop
+Hubs **in a nutshell:** ....a coordinated group of organisations with complementary expertise and a public benefit objective, offering a set of services and activities to companies and organizations to support their digital transformation and innovation through a one stop shop.
 
 ... cf. https://www.youtube.com/watch?v=ohOOoGpfYgc
 
@@ -113,3 +111,6 @@ Hubs **in a nutshell:** ....a coordinated group of organisations with complement
 
 https://wiki.open
 streetmap.org/wiki/User:Tagtheworld/Open-source-research
+
+
+[Email](mailto:martin.kaspar@ib.de) / [Website](https://fsj-digital.github.io/DigitalHub/) / [Foren](https://github.com/fsj-digital/DigitalHub/discussions) / [Wiki](https://github.com/fsj-digital/DigitalHub/wiki) / [GitHub](https://github.com/fsj-digital) / [Twitter](https://twitter.com/digital__hubs) / [DEV](https://dev.to/digital_hub)
