@@ -15,7 +15,9 @@
 - 😄 : ...
 - ⚡ Fun fact: 
   - FSJ volunteer in the field of eductaion have created great interest. 
-  - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻📚🎾🧠 
+  - Apply Theories to Practice: ...of Bruno Latour, ANT and [flosshub.org](https://flosshub.org) to practice ⚒ 🧑‍💻📚🎾🧠we try to apply ActorNetworkTheory (ANT) insights to our projects believing that they can contribute to the field of modern #knowledgemanagement by providing a critical lens that emphasizes the role of networks: The agency of non-human entities, power dynamics, contextual factors, and the need for interdisciplinary approaches.
+ 
+  
 
 
 ## 👩🏼‍💻 Der Zugang zum Projekt "Regionaler Innovation Hub":
